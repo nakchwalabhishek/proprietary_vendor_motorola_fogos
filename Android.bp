@@ -4,6 +4,12 @@
 
 soong_namespace {
     imports: [
+        "vendor/qcom/common/vendor/media/5.4",
+        "hardware/qcom/display/gralloc",
+        "hardware/qcom/display",
+        "vendor/qcom/common/vendor/adreno/r",
+        "vendor/qcom/common/vendor/dsprpcd",
+        "vendor/qcom/common/vendor/qseecomd",
         "hardware/motorola",
         "vendor/motorola/sm6375-common",
     ],
