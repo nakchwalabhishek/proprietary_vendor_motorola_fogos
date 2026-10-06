@@ -6,7 +6,6 @@ soong_namespace {
     imports: [
         "hardware/motorola",
         "vendor/motorola/sm6375-common",
-        "vendor/qcom/opensource/display",
     ],
 }
 
